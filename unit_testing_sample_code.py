@@ -21,6 +21,7 @@ def string_capitalizer(tobecapitalized):
         # If failure, return the input as is.
         return tobecapitalized
 
+    
 """
 Capitalizes the first and last character of a string in a list of strings.
 """
@@ -55,6 +56,8 @@ def manipulate_list(intlist):
     return intlist
 
 # Sample function calls. Comment in to run.
+
+
 # print(string_capitalizer("hello"))
 # print(capitalize_list(["hello","good","bye"]))
 # print(integer_manipulator(7))
