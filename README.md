@@ -2,7 +2,14 @@
 #3. HOW TO RUN OUR BACKEND TESTS:
   1. First you must clone our repository for the backend of hw3 again, now named comp333-hw3-backend.
   2. Once cloned, code the folder in this repo under the name "test-project", and paste that folder into the same folder which index.php is held.
-  3. 
+  3. Make a new database called user_hw2, make two tables using the following queries:
+     
+  5. In the file for BackendTests, change the id number for the update function to a number that already exists in the table, as well as the login function to a username and password that exists. 
+  6. Then, run
+  ```zsh
+  php vendor/bin/phpunit tests
+```
+
 
 
 
