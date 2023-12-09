@@ -59,3 +59,11 @@ class BackendControllerTest extends TestCase
 
 ```
 This code looks almost identical to many of the tests I wrote, which ran correctly while testing my backend. I believe that if we were to want it to write a more precise line of code that can look almost identical to that which we use to write our tests, we can provide exactly the name of our functions, the url, and every specific detail in order to make it as accurate is possible. This makes sense considering the more information you give it, the better its response will be. 
+
+
+
+Code contributions: 
+Christian Diaz Herrera: 50%
+Cristi Gonzalez: 50%
+
+most of the tests were done on my computer, but we worked on everything together.
