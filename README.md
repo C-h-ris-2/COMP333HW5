@@ -26,6 +26,7 @@
      npm run test
      ```
 
+#5. ![image](https://github.com/C-h-ris-2/COMP333HW5/assets/102235823/539584eb-d151-466f-bf26-d80a763d7b19)
 
 
 #6. When asking chatgpt to write me a test, all I had to do was be as specific as I could in order to receive exactly what I wanted. Into the open ai chat, I put "write me code that writes a test to see that i get a status code 200 for the backend controller using phpunit testing". In response, it gave me back the following code:
