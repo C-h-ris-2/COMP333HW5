@@ -13,7 +13,18 @@
   php vendor/bin/phpunit tests
 ```
 
-
+#4 HOW TO RUN OUR FRONTEND TESTS:
+  1. Reclone our repo for hw3 front end called revmixerfrontend.
+  2. take the folder in this repo called "frontendtests" and copy the test "App.test.js" into the same folder as App.js, and then copy the remaining two tests into the components folder.
+  3. Run
+     ```zsh
+     npm install --save-dev jest @testing-library/react @testing-library/jest-dom
+     ```
+     in the same directory as the components
+  4. run
+     ```zsh
+     npm run test
+     ```
 
 
 
